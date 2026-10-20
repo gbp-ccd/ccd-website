@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 810 150" role="img" aria-labelledby="title">
+<title id="title">Center for Collaborative Democracy</title>
+<g transform="translate(8 22)">
+  <path d="M54 0a54 54 0 1 0 0 108h21V80H54a26 26 0 1 1 0-52h21V0z" fill="#0F2D3A"/>
+  <path d="M104 0a54 54 0 0 0 0 108h21V80h-21a26 26 0 1 1 0-52h21V0z" fill="#7E9C8D"/>
+  <path d="M126 0h22a54 54 0 1 1 0 108h-22V80h22a26 26 0 1 0 0-52h-22z" fill="#0F2D3A"/>
+</g>
+<g fill="#0F2D3A" font-family="Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="5">
+  <text x="250" y="48" font-size="25">CENTER FOR</text>
+  <text x="250" y="83" font-size="25">COLLABORATIVE</text>
+  <text x="250" y="118" font-size="25">DEMOCRACY</text>
+</g>
+</svg>
